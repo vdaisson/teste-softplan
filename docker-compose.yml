@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  calculajuros.api:
+    image: ${DOCKER_REGISTRY-}calculajurosapi
+    build:
+      context: .
+      dockerfile: CalculaJuros.Api\Dockerfile
+
+  taxajuros.api:
+    image: ${DOCKER_REGISTRY-}taxajurosapi
+    build:
+      context: .
+      dockerfile: TaxaJuros\Dockerfile
+

@@ -1,0 +1,8 @@
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.deps.json
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.dll
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.pdb
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.csprojAssemblyReference.cache
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.AssemblyInfoInputs.cache
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.AssemblyInfo.cs
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.dll
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.pdb

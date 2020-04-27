@@ -1,0 +1,8 @@
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.1\TaxaJuros.AssemblyInfoInputs.cache
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.1\TaxaJuros.AssemblyInfo.cs
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.1\TaxaJuros.RazorTargetAssemblyInfo.cache
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.1\staticwebassets\TaxaJuros.StaticWebAssets.Manifest.cache
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.1\staticwebassets\TaxaJuros.StaticWebAssets.xml

@@ -1,0 +1,11 @@
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.Service.deps.json
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.Service.dll
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.Service.pdb
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.dll
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.pdb
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.Service.csprojAssemblyReference.cache
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.Service.AssemblyInfo.cs
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.Service.csproj.CopyComplete
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.Service.dll
+C:\Users\Movidesk\source\repos\TaxaJuros\CalculaJuros.Domain.Service\obj\Debug\netcoreapp3.1\CalculaJuros.Domain.Service.pdb

@@ -1,0 +1,8 @@
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros.Domain\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.deps.json
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros.Domain\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.dll
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros.Domain\bin\Debug\netcoreapp3.1\TaxaJuros.Domain.pdb
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.csprojAssemblyReference.cache
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.AssemblyInfoInputs.cache
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.AssemblyInfo.cs
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.dll
+C:\Users\Movidesk\source\repos\TaxaJuros\TaxaJuros.Domain\obj\Debug\netcoreapp3.1\TaxaJuros.Domain.pdb
